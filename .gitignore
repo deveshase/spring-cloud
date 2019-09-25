@@ -1,1 +1,17 @@
 /.metadata/
+
+**/*mvnw
+
+**/*mvnw.cmd
+
+**/*.gitignore
+
+**/.mvn/
+
+**/Servers/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
